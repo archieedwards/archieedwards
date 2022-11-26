@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hey ✌️
 
-<!--
-**archieedwards/archieedwards** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me
 
-Here are some ideas to get you started:
+- I'm currently a Product Growth Engineer at [Veed.io](https://veed.io)
+- I used to freelance [Ghost](https://ghost.org) themes and integrations
+- I ran a small dev-shop with my friend Jesse called [Metafield](https://metafield.co) where we designed and built websites, apps and Shopify themes.
+- I studied Computer Science at the University of Birmingham in the UK
+- I worked as an intern at IBM for a year as a dev-ops engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contact
+
+I'm active on [Twitter](https://twitter.com/archieedwds) - come say hi!
